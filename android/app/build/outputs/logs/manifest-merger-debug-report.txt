@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+MERGED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+MERGED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\0d6ea552384c7476dc9a38e92e0d0098\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\803026e19bea2891de44917130d7c5db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5e1468821a593d44d6353ae691ad7c8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\41cad4081df2ea558fc6c99b8abb55b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c58d066e70b4391f2183689d8167e9d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5cb1ee28cb06a9582de407d2f5b2453e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\9e1a620f6a86f23464b7248ad81d6555\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a3460e1e72578bbe174779bf78055289\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\055bcd73d7599fc5761000a85b99785b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\e29303640edf7859b114255a13fd149c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\ed77d3555ef655b8f78e1d4e2d316503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b5843846fe95c9b651bcfc9bc750e455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92f093b60e53f0383497f380dccf2e42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5b239f3cb8d05b3f4c7acaabd97d0896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\bf765a5b8357804c0c3755ca28f40908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\6dde884eebc99cc6e62e0468dc9c79ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c1d6c6f7e98208ecef373265d300a5c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a6eec2c423e2962a9370890d65e0129d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\924bdeacec9edae1258128a2ae599256\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\aba428ee9c8a41402f28cef916ab2f29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\32e6864e2ff7b7ee8f775ad29681b68c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\23a204e635fdbf1e627da44dd5d9f90a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\cc1158e9985c819eff1cc4f266d3d37e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\ed1acae91a518588fe9609eb89c99544\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\8d5458f436d8290ee94ded8da5b066ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b354c63724765ae22d9cc41db2a4bbab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\05697019d920f973709c6157c1f64a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\db4a8d10f3a82a63a35ed2e6d4326caa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b1a45d14e8591545da2e58028bab521d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b9b75e4014e24680a38afe3ad43b5dcb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\05d547994e9d9ce91e09de5ac342b81a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\e25bb091ba824801a3210f1053338bb9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a8313e6bbfac9a29788db72042c6e6dd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92a66605e044e2650f40f4a7e476553e\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\40191279b7b1887f7139785bb3d33fb6\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:70-93
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:70-93
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:1-16:12
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:4:3-63
+MERGED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:4:20-60
+application
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:3-14:17
+MERGED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:3-14:17
+MERGED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:3-14:17
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\0d6ea552384c7476dc9a38e92e0d0098\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\0d6ea552384c7476dc9a38e92e0d0098\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c1d6c6f7e98208ecef373265d300a5c8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c1d6c6f7e98208ecef373265d300a5c8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a6eec2c423e2962a9370890d65e0129d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a6eec2c423e2962a9370890d65e0129d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92a66605e044e2650f40f4a7e476553e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92a66605e044e2650f40f4a7e476553e\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c1d6c6f7e98208ecef373265d300a5c8\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:48-80
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:48-80
+	tools:ignore
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:116-161
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:116-161
+	tools:targetApi
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:81-115
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:81-115
+	android:allowBackup
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:162-189
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:162-189
+	android:theme
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:190-221
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:190-221
+	android:usesCleartextTraffic
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:16-47
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:6:16-47
+activity#com.qrscanner.MainActivity
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:7:5-12:16
+	android:label
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:7:44-76
+	android:windowSoftInputMode
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:7:148-190
+	android:configChanges
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:7:77-147
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:7:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:8:7-11:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:9:9-61
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:9:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:10:9-69
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:10:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:13:5-82
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml:13:15-79
+uses-sdk
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\0d6ea552384c7476dc9a38e92e0d0098\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\0d6ea552384c7476dc9a38e92e0d0098\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\803026e19bea2891de44917130d7c5db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\803026e19bea2891de44917130d7c5db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5e1468821a593d44d6353ae691ad7c8f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5e1468821a593d44d6353ae691ad7c8f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\41cad4081df2ea558fc6c99b8abb55b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\41cad4081df2ea558fc6c99b8abb55b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c58d066e70b4391f2183689d8167e9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c58d066e70b4391f2183689d8167e9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5cb1ee28cb06a9582de407d2f5b2453e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5cb1ee28cb06a9582de407d2f5b2453e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\9e1a620f6a86f23464b7248ad81d6555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\9e1a620f6a86f23464b7248ad81d6555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a3460e1e72578bbe174779bf78055289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a3460e1e72578bbe174779bf78055289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\055bcd73d7599fc5761000a85b99785b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\055bcd73d7599fc5761000a85b99785b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\e29303640edf7859b114255a13fd149c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\e29303640edf7859b114255a13fd149c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\ed77d3555ef655b8f78e1d4e2d316503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\ed77d3555ef655b8f78e1d4e2d316503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b5843846fe95c9b651bcfc9bc750e455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b5843846fe95c9b651bcfc9bc750e455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92f093b60e53f0383497f380dccf2e42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92f093b60e53f0383497f380dccf2e42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5b239f3cb8d05b3f4c7acaabd97d0896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\5b239f3cb8d05b3f4c7acaabd97d0896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\bf765a5b8357804c0c3755ca28f40908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\bf765a5b8357804c0c3755ca28f40908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\6dde884eebc99cc6e62e0468dc9c79ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\6dde884eebc99cc6e62e0468dc9c79ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c1d6c6f7e98208ecef373265d300a5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\c1d6c6f7e98208ecef373265d300a5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a6eec2c423e2962a9370890d65e0129d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a6eec2c423e2962a9370890d65e0129d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\924bdeacec9edae1258128a2ae599256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\924bdeacec9edae1258128a2ae599256\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\aba428ee9c8a41402f28cef916ab2f29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\aba428ee9c8a41402f28cef916ab2f29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\32e6864e2ff7b7ee8f775ad29681b68c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\32e6864e2ff7b7ee8f775ad29681b68c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\23a204e635fdbf1e627da44dd5d9f90a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\23a204e635fdbf1e627da44dd5d9f90a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\cc1158e9985c819eff1cc4f266d3d37e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\cc1158e9985c819eff1cc4f266d3d37e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\ed1acae91a518588fe9609eb89c99544\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\ed1acae91a518588fe9609eb89c99544\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\8d5458f436d8290ee94ded8da5b066ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\8d5458f436d8290ee94ded8da5b066ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b354c63724765ae22d9cc41db2a4bbab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b354c63724765ae22d9cc41db2a4bbab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\05697019d920f973709c6157c1f64a54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\05697019d920f973709c6157c1f64a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\db4a8d10f3a82a63a35ed2e6d4326caa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\db4a8d10f3a82a63a35ed2e6d4326caa\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b1a45d14e8591545da2e58028bab521d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b1a45d14e8591545da2e58028bab521d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b9b75e4014e24680a38afe3ad43b5dcb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\b9b75e4014e24680a38afe3ad43b5dcb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\05d547994e9d9ce91e09de5ac342b81a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\05d547994e9d9ce91e09de5ac342b81a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\e25bb091ba824801a3210f1053338bb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\e25bb091ba824801a3210f1053338bb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a8313e6bbfac9a29788db72042c6e6dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\a8313e6bbfac9a29788db72042c6e6dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92a66605e044e2650f40f4a7e476553e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\92a66605e044e2650f40f4a7e476553e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\40191279b7b1887f7139785bb3d33fb6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\chiko\.gradle\caches\transforms-2\files-2.1\40191279b7b1887f7139785bb3d33fb6\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\chiko\Desktop\working react-native scanner\qrscanner\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:react-native-camera-kit] C:\Users\chiko\Desktop\working react-native scanner\qrscanner\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-78
